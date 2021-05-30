@@ -1,4 +1,4 @@
-package com.project.bootcamp.modulo.DTO;
+package com.project.bootcamp.model.DTO;
 
 import java.time.LocalDate;
 
